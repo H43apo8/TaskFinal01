@@ -1,0 +1,15 @@
+C:\Users\sobolev\Desktop\GEEKBREAK\TASK_FINAL01\bin\Debug\net7.0\TASK_FINAL01.exe
+C:\Users\sobolev\Desktop\GEEKBREAK\TASK_FINAL01\bin\Debug\net7.0\TASK_FINAL01.deps.json
+C:\Users\sobolev\Desktop\GEEKBREAK\TASK_FINAL01\bin\Debug\net7.0\TASK_FINAL01.runtimeconfig.json
+C:\Users\sobolev\Desktop\GEEKBREAK\TASK_FINAL01\bin\Debug\net7.0\TASK_FINAL01.dll
+C:\Users\sobolev\Desktop\GEEKBREAK\TASK_FINAL01\bin\Debug\net7.0\TASK_FINAL01.pdb
+C:\Users\sobolev\Desktop\GEEKBREAK\TASK_FINAL01\obj\Debug\net7.0\TASK_FINAL01.csproj.AssemblyReference.cache
+C:\Users\sobolev\Desktop\GEEKBREAK\TASK_FINAL01\obj\Debug\net7.0\TASK_FINAL01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sobolev\Desktop\GEEKBREAK\TASK_FINAL01\obj\Debug\net7.0\TASK_FINAL01.AssemblyInfoInputs.cache
+C:\Users\sobolev\Desktop\GEEKBREAK\TASK_FINAL01\obj\Debug\net7.0\TASK_FINAL01.AssemblyInfo.cs
+C:\Users\sobolev\Desktop\GEEKBREAK\TASK_FINAL01\obj\Debug\net7.0\TASK_FINAL01.csproj.CoreCompileInputs.cache
+C:\Users\sobolev\Desktop\GEEKBREAK\TASK_FINAL01\obj\Debug\net7.0\TASK_FINAL01.dll
+C:\Users\sobolev\Desktop\GEEKBREAK\TASK_FINAL01\obj\Debug\net7.0\refint\TASK_FINAL01.dll
+C:\Users\sobolev\Desktop\GEEKBREAK\TASK_FINAL01\obj\Debug\net7.0\TASK_FINAL01.pdb
+C:\Users\sobolev\Desktop\GEEKBREAK\TASK_FINAL01\obj\Debug\net7.0\TASK_FINAL01.genruntimeconfig.cache
+C:\Users\sobolev\Desktop\GEEKBREAK\TASK_FINAL01\obj\Debug\net7.0\ref\TASK_FINAL01.dll
